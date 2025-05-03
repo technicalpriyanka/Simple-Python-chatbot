@@ -10,6 +10,7 @@ from dotenv import load_dotenv
 load_dotenv()
 # client = OpenAI()  # create a client instance
 
+#add key here
 
 #function definition
 def chatbot_response():
@@ -80,7 +81,7 @@ if __name__ == "__main__":
 
 
 # import openai
-
+#add key here
 
 # def chatbot_response(prompt):
 #     response = openai.ChatCompletion.create(
